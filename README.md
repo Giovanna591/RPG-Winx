@@ -4,6 +4,9 @@
 
 O projeto consiste em um jogo de RPG baseado no universo das Winx, onde o jogador pode escolher sua fada, completar quests e enfrentar desafios. O jogo permite que o jogador desenvolva suas habilidades mágicas e enfrente criaturas em um mundo encantado.
 
+## Vídeo de descrição
+https://youtu.be/uL29CSepItE
+
 ## Funcionalidades
 
 - Escolha de personagens do Winx Club (Bloom, Stella, Flora, Musa, Aisha, Tecna).
